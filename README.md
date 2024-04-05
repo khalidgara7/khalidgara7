@@ -2,7 +2,7 @@ $gara = "HELLO WORLD";
 $name = "khalid EL mâti";
 
 <h1 align="center"> $gara = "HELLO WORLD"; 👋, I'm $name = "khalid EL mâti";</h1>
-<div align="center"> <img src="https://dochub.com/ayoubsaghro27/Noek8bMwxDGBWkdwl7d2qm/blue-gradient-product-manager-linkedin-article-cover-image-png?dt=xz5NphyyX4UpL95t6eKg"> </div>
+<div align="center"> <img src=""> </div>
 <h3 align="center">A Student Devlopper Full-stack At Youcode Scole   </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p>
