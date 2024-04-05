@@ -1,5 +1,4 @@
-$gara = "HELLO WORLD";
-$name = "khalid EL mâti";
+
 
 <h1 align="center"> $gara = "HELLO WORLD"; 👋, I'm $name = "khalid EL mâti";</h1>
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH6ybQqIpY1_A/profile-displaybackgroundimage-shrink_350_1400/0/1701811774922?e=1717632000&v=beta&t=d9H1LnkoZuHAJ1eIntHU_FtiHh7ykfFNQw6Ips9llrE"> </div>
