@@ -4,7 +4,7 @@ $name = "khalid EL mâti";
 <h1 align="center"> $gara = "HELLO WORLD"; 👋, I'm $name = "khalid EL mâti";</h1>
 <div align="center"> <img src=""> </div>
 <h3 align="center">A Student Devlopper Full-stack At Youcode Scole   </h3>
-<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/cWRGfB9N8PrbMz3n7](https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966)">
+<img align="right" alt="Coding" width="400" src="[(https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966)">
 <p>
 - 🔭 I’m currently a student at YouCode school, studying web development <br> 
 
