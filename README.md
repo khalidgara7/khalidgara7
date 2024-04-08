@@ -1,28 +1,20 @@
 
-
 <h1 align="center"> $gara = "HELLO WORLD"; 👋, I'm $name = "khalid EL mâti";</h1>
-<div align="center"> <img src="![image](https://github.com/khalidgara7/khalidgara7/assets/69170339/acfe1002-8811-4891-a1a2-bbe1a7af4550)
-"> </div>
+<div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH6ybQqIpY1_A/profile-displaybackgroundimage-shrink_350_1400/0/1701811774922?e=1717632000&v=beta&t=d9H1LnkoZuHAJ1eIntHU_FtiHh7ykfFNQw6Ips9llrE"> </div>
 <h3 align="center">A Student Devlopper Full-stack At Youcode Scole   </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
 <p>
 - 🔭 I’m currently a student at YouCode school, studying web development <br> 
-
 - 🌱 I’m currently learning FULL-STACK PHP ,dev Mobile (Laravel)<br>
-
 - 👨‍💻 All of my projects are available at [https://github.com/khalidgara7]<br>
-
 - 💬 Ask me about MERN stack PHP <br>
-
 - 📫 Contact me khalidgara8@gmail.com || elmatikhalid17@gmail.com <br>
-
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/khalid-el-mati-079051214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kha.gara_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -47,7 +39,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
    </p>
-
-
-
-
