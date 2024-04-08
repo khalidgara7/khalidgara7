@@ -1,7 +1,8 @@
 
 
 <h1 align="center"> $gara = "HELLO WORLD"; 👋, I'm $name = "khalid EL mâti";</h1>
-<div align="center"> <img src="https://dochub.com/m/shared-document/khalid-el-mati/8YZWO9NV8xbqbaZVzEAy30/123-456-7890-hello-at-reallygreatsite-com-5-png?dt=gMo7gXPWyC9-K3chNnCs"> </div>
+<div align="center"> <img src="![image](https://github.com/khalidgara7/khalidgara7/assets/69170339/acfe1002-8811-4891-a1a2-bbe1a7af4550)
+"> </div>
 <h3 align="center">A Student Devlopper Full-stack At Youcode Scole   </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
 <p>
