@@ -1,7 +1,7 @@
 
-<h1 align="center"> $gara = "HELLO WORLD"; 👋, I'm $name = "khalid EL mâti";</h1>
+<h1 align="center"> "HELLO WORLD"  I'm  "khalid EL mâti" </h1>
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQH6ybQqIpY1_A/profile-displaybackgroundimage-shrink_350_1400/0/1701811774922?e=1717632000&v=beta&t=d9H1LnkoZuHAJ1eIntHU_FtiHh7ykfFNQw6Ips9llrE"> </div>
-<h3 align="center">A Student Devlopper Full-stack At Youcode Scole   </h3>
+<h3 align="center">A Student Devlopper Full-stack At Youcode School   </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
 <p>
 - 🔭 I’m currently a student at YouCode school, studying web development <br> 
@@ -34,8 +34,5 @@
 </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
    </p>
