@@ -49,7 +49,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/khalidgara7"><img src="https://github-readme-stats.vercel.app/api?username=KHALID-ZENNOUHI&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&show_icons=true" alt="KHALID EL MATI's GitHub stats" /></a>
+<a href="https://github.com/khalidgara7"><img src="https://github-readme-stats.vercel.app/api?username=KHALID EL MATI&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&show_icons=true" alt="KHALID EL MATI's GitHub stats" /></a>
 
 <a href="https://github.com/khalidgara7"><img src="" /></a>
 
