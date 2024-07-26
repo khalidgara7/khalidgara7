@@ -1,10 +1,8 @@
 <h1 align="center">HELLO👋, MY NAME IS KHALID EL MATI</h1>
 
+<h3 align="center">I'm a Full Stack Web Developer</h3>
 
-I'm a Full Stack Web Developer
-------------------------------
-
-|💻 As a full-stack web developer, I am equipped to meet the evolving demands of the job market by leveraging extensive hands-on experience, active problem-solving, and collaborative skills in software development.
+|💻 <p> As a full-stack web developer, I am equipped to meet the evolving demands of the job market by leveraging extensive hands-on experience, active problem-solving, and collaborative skills in software development.</p>
 
 |🌐 Let's innovate and bring ideas to life! #CodeCraftsman#FullStack #WebDevelopment #Programming #Coding #WebDesign
 
@@ -51,7 +49,7 @@ I'm a Full Stack Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/khalidgara7"><img src="" alt="KHALID EL MATI's GitHub stats" /></a>
+<a href="https://github.com/khalidgara7"><img src="https://github-readme-stats.vercel.app/api?username=KHALID-ZENNOUHI&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&show_icons=true" alt="KHALID EL MATI's GitHub stats" /></a>
 
 <a href="https://github.com/khalidgara7"><img src="" /></a>
 
