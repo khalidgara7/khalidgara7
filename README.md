@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm khalid El mati</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Maroc</h3>
 
-<img align="right" alt="Coding" width="290" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
+<img align="right" alt="Coding" width="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdeveloper-gifs&psig=AOvVaw0SYGAs4blL5C6bF2aSOC_g&ust=1734905030867000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMC3uIzvuYoDFQAAAAAdAAAAABAE">
 
 - 🌱 I'm currently learning and honing my skills in full-stack development. **React js**
 
