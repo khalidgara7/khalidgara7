@@ -42,7 +42,7 @@
 ### 🔹 **Wiki Management System**
 A complete CMS with search, categories, admin dashboard, and secure authentication.  
 **Tech:** Laravel, MySQL, JS, UML  
-🔗 *[Repository Coming Soon]*
+🔗 *[[Repository Coming Soon](https://github.com/khalidgara7/Gestion-des-Wikis)]*
 
 ---
 
@@ -50,7 +50,7 @@ A complete CMS with search, categories, admin dashboard, and secure authenticati
 Platform connecting workers & employers for short-term missions.  
 Features: reservations, profiles, listings, role management  
 **Tech:** PHP, MySQL, Docker, JS  
-🔗 *[Repository Coming Soon]*
+🔗 *[[Repository Coming Soon](https://github.com/khalidgara7/BricoHub)]*
 
 ---
 
@@ -93,3 +93,4 @@ Features: reservations, profiles, listings, role management
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4b6cb7&height=150&section=footer"/>
+
